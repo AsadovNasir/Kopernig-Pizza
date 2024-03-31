@@ -1,0 +1,132 @@
+﻿@model List<Category>
+
+<div class="breadcrumbs">
+	<div class="breadcrumbs-inner">
+		<div class="row m-0">
+			<div class="col-sm-4">
+				<div class="page-header float-left">
+					<div class="page-title">
+						<h1>Dashboard</h1>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-8">
+				<div class="page-header float-right">
+					<div class="page-title">
+						<ol class="breadcrumb text-right">
+							<li><a href="#">Dashboard</a></li>
+							<li><a href="#">Table</a></li>
+							<li class="active">Data table</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="content">
+	<div class="animated fadeIn">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<strong class="card-title">Categories</strong>
+						<a asp-area="Admin" asp-controller="Category" asp-action="Add" class="btn btn-primary">Add Category</a>
+					</div>
+					<div class="card-body">
+						<table id="bootstrap-data-table" class="table table-striped table-bordered">
+							<thead>
+								<tr>
+									<th>Id</th>
+									<th>Category</th>
+									<th>Delete</th>
+									<th>Edit</th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									<tr>
+										<td>@item.Id</td>
+										<td>@item.Name</td>
+										<td>
+											<a asp-area="Admin" asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+											<button data-category-id="@item.Id" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+												Launch demo modal
+											</button>
+										</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<form id="editCategoryForm">
+					<input type="hidden" id="categoryId" name="categoryId" />
+					<div class="form-group">
+						<label for="categoryName">Category Name</label>
+						<input type="text" class="form-control" id="categoryName" name="categoryName" required />
+					</div>
+					<!-- Add more fields as needed -->
+				</form>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+				<button type="button" class="btn btn-primary">Save changes</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+@section scripts {
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.min.js" integrity="sha384-xC4KhuIAP9A3wvZkk2r+x7ENsbcTdYY3Muyhvy8p6T/3II+1y8U5n7JIp9zks5Oq" crossorigin="anonymous"></script>
+	<script>
+		$(document).ready(function () {
+			// Function to handle the click event on the edit button
+			$('body').on('click', '.btn-edit', function () {
+				var categoryId = $(this).data('category-id');
+
+				// AJAX request to fetch category details
+				$.ajax({
+					url: "Admin/Category/Edit',
+							type: 'GET',
+					data: { id: categoryId },
+					success: function (response) {
+						// Populate modal fields with category data
+						$('#editCategoryModal #categoryId').val(response.id);
+						$('#editCategoryModal #categoryName').val(response.name);
+
+						// Show the modal
+						$('#editCategoryModal').modal('show');
+					},
+					error: function () {
+						alert('Error fetching category details.');
+					}
+				});
+			});
+		});
+	</script>
+}

@@ -1,0 +1,89 @@
+﻿@using KoperingPizza.Models;
+@model List<Product>
+<main>
+
+
+    <section class="introduction-section">
+        <div class="introduction">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="left-side">
+                            <h1>Fərqli Təam</h1>
+                            <h2>Yeni dadlar kəşf et</h2>
+                            <p>
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure sunt architecto
+                                tempora ut id quod
+                                consectetur magni magnam nulla vitae quidem repudiandae voluptas, dolor eveniet et?
+                                Suscipit rem cupiditate
+                                rerum assumenda animi adipisci, distinctio voluptatum, vel perferendis officiis,
+                                perspiciatis facilis!
+                            </p>
+                        </div>
+                        <div class="right-side"> <img src="./assets/image/hamburger.png" alt=""></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="left-side">
+                            <h1>Niyə biz?</h1>
+                            <h2>Keyfiyyət və ləzzətin ünvanı</h2>
+                            <p>
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure sunt architecto
+                                tempora ut id quod
+                                consectetur magni magnam nulla vitae quidem repudiandae voluptas, dolor eveniet et?
+                                Suscipit rem cupiditate
+                                rerum assumenda animi adipisci, distinctio voluptatum, vel perferendis officiis,
+                                perspiciatis facilis!
+                            </p>
+                        </div>
+                        <div class="right-side"> <img src="./assets/image/pizza1.png" alt=""></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="left-side">
+                            <h1>Xüsusi Endirimlər</h1>
+                            <h2>Endirim</h2>
+                            <p>
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure sunt architecto
+                                tempora ut id quod
+                                consectetur magni magnam nulla vitae quidem repudiandae voluptas, dolor eveniet et?
+                                Suscipit rem cupiditate
+                                rerum assumenda animi adipisci, distinctio voluptatum, vel perferendis officiis,
+                                perspiciatis facilis!
+                            </p> 
+                        </div>
+                        <div class="right-side"> <img src="./assets/image/pizza2.png" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </section>
+
+
+    <section class="promo-code">
+        <div class="pcode">
+            <input type="text">
+            <button>Daxil et</button>
+        </div>
+    </section>
+
+
+    <section class="menu">
+       @foreach(var item in Model){
+            <div class="food-card">
+                <div class="food">
+                    <img src="~/image/products/@item.Image" alt="">
+                    <div class="food about">
+                        <h2>@item.Price</h2>
+                        <h3>@item.Name</h3>,
+                        <button>Səbətə əlavə et</button>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </section>
+
+
+</main>
