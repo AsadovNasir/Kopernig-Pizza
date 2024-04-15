@@ -7,11 +7,11 @@
             <div class="card-body card-block">
                 <div class="form-group">
                     <label asp-for="Name" class=" form-control-label">Name</label>
-                    <input asp-for="Name" type="text" placeholder="Name" class="form-control">
+                    <input id="Name" asp-for="Name" type="text" placeholder="Name" class="form-control">
                 </div>
                 <div class="form-group">
                     <label asp-for="Price" class="form-control-label">Price</label>
-                    <input type="text" asp-for="Price" placeholder="Price" class="form-control">
+                    <input id="Price" type="text" asp-for="Price" placeholder="Price" class="form-control">
                 </div>
                 <div class="form-group">
                     <label asp-for="CatgeoryId" class="form-control-label">Select Category</label>
@@ -27,7 +27,7 @@
                 <div class="form-img">
                     <h1>Product Image</h1>
                     <label class="input-preview" asp-for="ImgFile">
-                        <input type="file" class="input-preview__src" asp-for="ImgFile" />
+                        <input id="ImgFile" type="file" class="input-preview__src" asp-for="ImgFile" />
                     </label>
                 </div>
 
@@ -100,6 +100,19 @@
 </div>
 @section scripts{
     <script>
+        // Bu fonksiyon, formun boş olup olmadığını kontrol eder
+        function validateForm() {
+            var name = document.getElementById("Name").value;
+            var price = document.getElementById("Price").value;
+            var category = document.getElementById("select").value;
+            var file = document.getElementById("ImgFile").value;
+
+            // Eğer herhangi bir alan boşsa, formu gönderme ve kenar çerçevesini kırmızıya dönüştürme
+            if (name == "" || price == "" || category == "" || file == "") {
+                document.querySelector('.btn').style.cursor="not-allowed";
+            }
+        }
+
         const fileImage = document.querySelector('.input-preview__src');
         const filePreview = document.querySelector('.input-preview');
 
@@ -107,13 +120,13 @@
             const reader = new FileReader();
 
             reader.onload = function (e) {
-                // get loaded data and render thumbnail.
+                // yüklenen veriyi al ve küçük resmi oluştur.
                 filePreview.style.backgroundImage = "url(" + e.target.result + ")";
                 filePreview.classList.add("has-image");
             };
 
-            // read the image file as a data URL.
+            // resim dosyasını bir veri URL'si olarak oku.
             reader.readAsDataURL(this.files[0]);
         };
     </script>
- }
+}

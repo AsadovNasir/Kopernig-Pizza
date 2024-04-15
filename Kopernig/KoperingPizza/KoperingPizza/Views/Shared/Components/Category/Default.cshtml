@@ -1,0 +1,15 @@
+﻿@model List<Category>
+<div class="dropdown">
+	<ul>
+		@foreach (var item in Model)
+		{
+
+			<li class="dropdown-link">
+				<a asp-controller="Product" asp-action="ProductList" asp-route-CategoryId="@item.Id">@item.Name</a>
+			</li>
+			
+		}
+
+		</ul>
+	
+</div>

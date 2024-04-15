@@ -144,6 +144,38 @@ namespace KoperingPizza.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("KoperingPizza.Models.SizeProduct", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("SizeProduct");
+                });
+
+            modelBuilder.Entity("KoperingPizza.Models.SizeToProducts", b =>
+                {
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("SizeProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ProductId", "SizeProductId");
+
+                    b.HasIndex("SizeProductId");
+
+                    b.ToTable("SizeToProducts");
+                });
+
             modelBuilder.Entity("KoperingPizza.Models.Slider", b =>
                 {
                     b.Property<int>("Id")
@@ -177,7 +209,7 @@ namespace KoperingPizza.Migrations
                         {
                             Id = 1,
                             Description = "TestDescription",
-                            Image = "slideshow-character2.png",
+                            Image = "pizza.png",
                             Name = "New Trend",
                             Title = "Summer Sale Stylish"
                         });
@@ -327,6 +359,25 @@ namespace KoperingPizza.Migrations
                     b.Navigation("Category");
                 });
 
+            modelBuilder.Entity("KoperingPizza.Models.SizeToProducts", b =>
+                {
+                    b.HasOne("KoperingPizza.Models.Product", "Product")
+                        .WithMany("SizeToProducts")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("KoperingPizza.Models.SizeProduct", "SizeProduct")
+                        .WithMany("SizeToProducts")
+                        .HasForeignKey("SizeProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+
+                    b.Navigation("SizeProduct");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -381,6 +432,16 @@ namespace KoperingPizza.Migrations
             modelBuilder.Entity("KoperingPizza.Models.Category", b =>
                 {
                     b.Navigation("Products");
+                });
+
+            modelBuilder.Entity("KoperingPizza.Models.Product", b =>
+                {
+                    b.Navigation("SizeToProducts");
+                });
+
+            modelBuilder.Entity("KoperingPizza.Models.SizeProduct", b =>
+                {
+                    b.Navigation("SizeToProducts");
                 });
 #pragma warning restore 612, 618
         }

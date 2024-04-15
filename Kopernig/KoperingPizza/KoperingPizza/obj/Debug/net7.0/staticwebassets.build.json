@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LZPTR8sVxYUgz732kEFJQjV+PKnMhG7D+ewl489YgQ8=",
+  "Hash": "6B2UgK2j/7A9sODT7SZBy/sB07zBNHpdTls4vAwmdf4=",
   "Source": "KoperingPizza",
   "BasePath": "_content/KoperingPizza",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "KoperingPizza\\wwwroot",
       "Source": "KoperingPizza",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\KoperingPizza.styles.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\KoperingPizza.styles.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "KoperingPizza.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\KoperingPizza.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\bundle\\KoperingPizza.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KoperingPizza.bundle.scp.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KoperingPizza.bundle.scp.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "KoperingPizza.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KoperingPizza.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KoperingPizza.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\assets\\image\\hamburger.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\assets\\image\\hamburger.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "assets/image/hamburger.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\hamburger.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\assets\\image\\pizza1.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\assets\\image\\pizza1.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "assets/image/pizza1.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\pizza1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\assets\\image\\pizza2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\assets\\image\\pizza2.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "assets/image/pizza2.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\image\\pizza2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\css\\style.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\cs-skin-elastic.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\cs-skin-elastic.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/cs-skin-elastic.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\cs-skin-elastic.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/lib/chosen/chosen.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/lib/chosen/chosen.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen-sprite.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen-sprite.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/lib/chosen/chosen-sprite.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen-sprite.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/lib/chosen/chosen-sprite@2x.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/lib/datatable/buttons.bootstrap.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/lib/datatable/buttons.dataTables.min.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/lib/datatable/dataTables.bootstrap.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/lib/vector-map/jqvmap.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\lib\\vector-map\\jqvmap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\style.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/style.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\style.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\css\\style.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/css/style.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.eot",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.eot",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/fonts/icomoon/icomoon.eot",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.eot"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.svg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.svg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/fonts/icomoon/icomoon.svg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.svg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.ttf",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.ttf",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/fonts/icomoon/icomoon.ttf",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.woff",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.woff",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/fonts/icomoon/icomoon.woff",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\icomoon.woff"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\index.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\index.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/fonts/icomoon/index.html",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\fonts\\icomoon\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\dashboard.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\dashboard.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/dashboard.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\chartjs-init.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\chartjs-init.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/init/chartjs-init.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\init\\chartjs-init.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\datatables-init.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\datatables-init.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/init/datatables-init.js",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\init\\datatables-init.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\flot-chart-init.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\flot-chart-init.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/init/flot-chart-init.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\init\\flot-chart-init.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\fullcalendar-init.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\fullcalendar-init.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/init/fullcalendar-init.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\init\\fullcalendar-init.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\gmap-init.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\gmap-init.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/init/gmap-init.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\init\\gmap-init.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\peitychart-init.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\peitychart-init.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/init/peitychart-init.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\init\\peitychart-init.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\vector-init.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\vector-init.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/init/vector-init.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\init\\vector-init.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\weather-init.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\init\\weather-init.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/init/weather-init.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\init\\weather-init.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.jquery.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.jquery.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/chosen/chosen.jquery.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.jquery.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/chosen/chosen.jquery.min.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.proto.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.proto.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/chosen/chosen.proto.js",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.proto.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.proto.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.proto.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/chosen/chosen.proto.min.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\chosen\\chosen.proto.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/buttons.bootstrap.min.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/buttons.colVis.min.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/buttons.flash.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.flash.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/buttons.html5.min.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.html5.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.print.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.print.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/buttons.print.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\buttons.print.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/dataTables.bootstrap.min.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/dataTables.buttons.min.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\datatables.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\datatables.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/datatables.min.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\datatables.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/jquery.dataTables.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/jquery-1.12.4.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jszip.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jszip.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/jszip.min.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\jszip.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\pdfmake.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\pdfmake.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/pdfmake.min.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\pdfmake.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\vfs_fonts.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\vfs_fonts.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/data-table/vfs_fonts.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\data-table\\vfs_fonts.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmapApi.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmapApi.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/gmap/gmapApi.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmapApi.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmaps.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmaps.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/gmap/gmaps.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmaps.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmaps.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmaps.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/lib/gmap/gmaps.min.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\lib\\gmap\\gmaps.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\main.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/main.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\vmap.sampledata.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\vmap.sampledata.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/vmap.sampledata.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\vmap.sampledata.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\widgets.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\js\\widgets.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/js/widgets.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\js\\widgets.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\scss\\style.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\scss\\style.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/scss/style.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\scss\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\scss\\style.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\scss\\style.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/scss/style.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\scss\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\scss\\style.scss",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\assets\\scss\\style.scss",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/assets/scss/style.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\assets\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\charts-chartjs.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\charts-chartjs.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/charts-chartjs.html",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\charts-chartjs.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\charts-flot.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\charts-flot.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/charts-flot.html",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\charts-flot.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\charts-peity.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\charts-peity.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/charts-peity.html",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\charts-peity.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\font-fontawesome.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\font-fontawesome.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/font-fontawesome.html",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\font-fontawesome.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\font-themify.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\font-themify.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/font-themify.html",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\font-themify.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\forms-advanced.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\forms-advanced.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/forms-advanced.html",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\forms-advanced.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\forms-basic.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\forms-basic.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/forms-basic.html",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\forms-basic.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\.gitignore",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\.gitignore",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/.gitignore",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\.gitignore"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\admin.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\admin.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/admin.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\admin.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\1.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/avatar/1.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\avatar\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\2.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/avatar/2.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\avatar\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\3.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\3.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/avatar/3.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\avatar\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\4.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\4.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/avatar/4.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\avatar\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\5.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\5.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/avatar/5.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\avatar\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\6.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\6.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/avatar/6.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\avatar\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\64-1.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\64-1.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/avatar/64-1.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\avatar\\64-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\64-2.jpg",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\avatar\\64-2.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/avatar/64-2.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\avatar\\64-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\favicon.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\favicon.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/favicon.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\logo.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\logo.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/logo.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\logo.psd",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\logo.psd",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/logo.psd",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\logo.psd"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\logo2.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\images\\logo2.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/images/logo2.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\images\\logo2.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\index.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\index.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/index.html",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\maps-gmap.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\maps-gmap.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/maps-gmap.html",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\maps-gmap.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\maps-vector.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\maps-vector.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/maps-vector.html",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\maps-vector.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\page-login.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\page-login.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/page-login.html",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\page-login.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\page-register.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\page-register.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/page-register.html",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\page-register.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\pages-forget.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\pages-forget.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/pages-forget.html",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\pages-forget.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\README.md",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\README.md",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/README.md",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\tables-basic.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\tables-basic.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/tables-basic.html",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\tables-basic.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\tables-data.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\tables-data.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/tables-data.html",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\tables-data.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-alerts.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-alerts.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-alerts.html",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-alerts.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-badges.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-badges.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-badges.html",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-badges.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-buttons.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-buttons.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-buttons.html",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-buttons.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-cards.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-cards.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-cards.html",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-cards.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-grids.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-grids.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-grids.html",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-grids.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-modals.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-modals.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-modals.html",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-modals.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-progressbar.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-progressbar.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-progressbar.html",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-progressbar.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-switches.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-switches.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-switches.html",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-switches.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-tabs.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-tabs.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-tabs.html",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-tabs.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-typgraphy.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\ui-typgraphy.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/ui-typgraphy.html",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\ui-typgraphy.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\widgets.html",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\ElaAdmin\\widgets.html",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "ElaAdmin/widgets.html",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\ElaAdmin\\widgets.html"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\favicon.ico",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\072b7d70-c9db-4e4a-8265-6dabd82a87b0Screenshot 2023-12-23 211957.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\072b7d70-c9db-4e4a-8265-6dabd82a87b0Screenshot 2023-12-23 211957.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/072b7d70-c9db-4e4a-8265-6dabd82a87b0Screenshot 2023-12-23 211957.png",
       "AssetKind": "All",
@@ -1717,10 +1717,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\072b7d70-c9db-4e4a-8265-6dabd82a87b0Screenshot 2023-12-23 211957.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\22736d5f-3073-4505-bdfe-d348c0272ee7Screenshot 2023-12-05 222107.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\0ea3662f-ff4f-4a19-a0f2-e0a2c4e8dfacpor.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/0ea3662f-ff4f-4a19-a0f2-e0a2c4e8dfacpor.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\0ea3662f-ff4f-4a19-a0f2-e0a2c4e8dfacpor.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\22736d5f-3073-4505-bdfe-d348c0272ee7Screenshot 2023-12-05 222107.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/22736d5f-3073-4505-bdfe-d348c0272ee7Screenshot 2023-12-05 222107.png",
       "AssetKind": "All",
@@ -1734,10 +1751,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\22736d5f-3073-4505-bdfe-d348c0272ee7Screenshot 2023-12-05 222107.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\31ac336b-5b6d-4b1e-970c-6bb921c810c8genisleme ceni.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\24b0bacb-54d7-43c0-b910-a7a559e9f920por.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/24b0bacb-54d7-43c0-b910-a7a559e9f920por.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\24b0bacb-54d7-43c0-b910-a7a559e9f920por.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\31ac336b-5b6d-4b1e-970c-6bb921c810c8genisleme ceni.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/31ac336b-5b6d-4b1e-970c-6bb921c810c8genisleme ceni.png",
       "AssetKind": "All",
@@ -1751,10 +1785,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\31ac336b-5b6d-4b1e-970c-6bb921c810c8genisleme ceni.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\43af12b1-2730-4539-8366-aabce3b6d04aScreenshot 2023-12-05 222526.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\34b8ce72-dc6e-4706-a842-7353c5ec6e2epor.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/34b8ce72-dc6e-4706-a842-7353c5ec6e2epor.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\34b8ce72-dc6e-4706-a842-7353c5ec6e2epor.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\43af12b1-2730-4539-8366-aabce3b6d04aScreenshot 2023-12-05 222526.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/43af12b1-2730-4539-8366-aabce3b6d04aScreenshot 2023-12-05 222526.png",
       "AssetKind": "All",
@@ -1768,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\43af12b1-2730-4539-8366-aabce3b6d04aScreenshot 2023-12-05 222526.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\46dc51e4-6fc7-4968-b713-190430676c77Screenshot 2023-12-05 222227.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\46dc51e4-6fc7-4968-b713-190430676c77Screenshot 2023-12-05 222227.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/46dc51e4-6fc7-4968-b713-190430676c77Screenshot 2023-12-05 222227.png",
       "AssetKind": "All",
@@ -1785,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\46dc51e4-6fc7-4968-b713-190430676c77Screenshot 2023-12-05 222227.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\4ceac56f-5ce5-4068-ba70-eb676c1b5f35Screenshot 2023-12-05 222041.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\4ceac56f-5ce5-4068-ba70-eb676c1b5f35Screenshot 2023-12-05 222041.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/4ceac56f-5ce5-4068-ba70-eb676c1b5f35Screenshot 2023-12-05 222041.png",
       "AssetKind": "All",
@@ -1802,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\4ceac56f-5ce5-4068-ba70-eb676c1b5f35Screenshot 2023-12-05 222041.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\4f84d050-fac9-44e7-bf5d-bf89c070c43fgenisleme ceni.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\4f84d050-fac9-44e7-bf5d-bf89c070c43fgenisleme ceni.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/4f84d050-fac9-44e7-bf5d-bf89c070c43fgenisleme ceni.png",
       "AssetKind": "All",
@@ -1819,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\4f84d050-fac9-44e7-bf5d-bf89c070c43fgenisleme ceni.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\5216a20a-ecd9-42f1-bd0c-f00307225fa0Screenshot 2023-12-05 222107.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\5216a20a-ecd9-42f1-bd0c-f00307225fa0Screenshot 2023-12-05 222107.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/5216a20a-ecd9-42f1-bd0c-f00307225fa0Screenshot 2023-12-05 222107.png",
       "AssetKind": "All",
@@ -1836,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\5216a20a-ecd9-42f1-bd0c-f00307225fa0Screenshot 2023-12-05 222107.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\59c6b17b-83ae-4cf0-917b-49557f3fdd3cScreenshot 2023-12-05 222448.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\59c6b17b-83ae-4cf0-917b-49557f3fdd3cScreenshot 2023-12-05 222448.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/59c6b17b-83ae-4cf0-917b-49557f3fdd3cScreenshot 2023-12-05 222448.png",
       "AssetKind": "All",
@@ -1853,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\59c6b17b-83ae-4cf0-917b-49557f3fdd3cScreenshot 2023-12-05 222448.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\5dbf5c80-6cea-4ca5-8005-479e2e35b257Screenshot 2023-12-05 222448.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\5dbf5c80-6cea-4ca5-8005-479e2e35b257Screenshot 2023-12-05 222448.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/5dbf5c80-6cea-4ca5-8005-479e2e35b257Screenshot 2023-12-05 222448.png",
       "AssetKind": "All",
@@ -1870,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\5dbf5c80-6cea-4ca5-8005-479e2e35b257Screenshot 2023-12-05 222448.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\5ea67015-116e-4cca-9b94-69833e237dd1Screenshot 2023-12-05 222248.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\5ea67015-116e-4cca-9b94-69833e237dd1Screenshot 2023-12-05 222248.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/5ea67015-116e-4cca-9b94-69833e237dd1Screenshot 2023-12-05 222248.png",
       "AssetKind": "All",
@@ -1887,10 +1938,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\5ea67015-116e-4cca-9b94-69833e237dd1Screenshot 2023-12-05 222248.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\787da96d-a485-41e5-a3b9-f416b0640698Screenshot 2023-12-05 222041.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\7709656b-8309-4b78-913c-f12700f22357Red and black rocket illustration, Rocket Spacecraft, rocket, image File Formats, cartoon png.jpeg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/7709656b-8309-4b78-913c-f12700f22357Red and black rocket illustration, Rocket Spacecraft, rocket, image File Formats, cartoon png.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\7709656b-8309-4b78-913c-f12700f22357Red and black rocket illustration, Rocket Spacecraft, rocket, image File Formats, cartoon png.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\787da96d-a485-41e5-a3b9-f416b0640698Screenshot 2023-12-05 222041.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/787da96d-a485-41e5-a3b9-f416b0640698Screenshot 2023-12-05 222041.png",
       "AssetKind": "All",
@@ -1904,10 +1972,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\787da96d-a485-41e5-a3b9-f416b0640698Screenshot 2023-12-05 222041.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\7c78b884-4dc7-4253-8485-90e5fd3b1f8dScreenshot 2023-12-05 222041.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\78aa540b-e9a4-4738-b0d1-c53d08a2bad4+994 50 209 39 49 (19).png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/78aa540b-e9a4-4738-b0d1-c53d08a2bad4+994 50 209 39 49 (19).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\78aa540b-e9a4-4738-b0d1-c53d08a2bad4+994 50 209 39 49 (19).png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\7c78b884-4dc7-4253-8485-90e5fd3b1f8dScreenshot 2023-12-05 222041.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/7c78b884-4dc7-4253-8485-90e5fd3b1f8dScreenshot 2023-12-05 222041.png",
       "AssetKind": "All",
@@ -1921,10 +2006,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\7c78b884-4dc7-4253-8485-90e5fd3b1f8dScreenshot 2023-12-05 222041.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\7fac03eb-4b07-49ef-8ddf-b140dc30ce40Screenshot 2023-12-05 222248.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\7f59e0f7-bee5-4f5a-8bad-37468e810ed5+994 50 209 39 49 (18).png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/7f59e0f7-bee5-4f5a-8bad-37468e810ed5+994 50 209 39 49 (18).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\7f59e0f7-bee5-4f5a-8bad-37468e810ed5+994 50 209 39 49 (18).png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\7fac03eb-4b07-49ef-8ddf-b140dc30ce40Screenshot 2023-12-05 222248.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/7fac03eb-4b07-49ef-8ddf-b140dc30ce40Screenshot 2023-12-05 222248.png",
       "AssetKind": "All",
@@ -1938,10 +2040,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\7fac03eb-4b07-49ef-8ddf-b140dc30ce40Screenshot 2023-12-05 222248.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\921ccce6-aef1-4b64-8fbd-8c235f712a77genisleme ceni.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\8a410b35-0d52-475f-9f2e-e08a46e01627+994 50 209 39 49 (19).png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/8a410b35-0d52-475f-9f2e-e08a46e01627+994 50 209 39 49 (19).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\8a410b35-0d52-475f-9f2e-e08a46e01627+994 50 209 39 49 (19).png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\921ccce6-aef1-4b64-8fbd-8c235f712a77genisleme ceni.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/921ccce6-aef1-4b64-8fbd-8c235f712a77genisleme ceni.png",
       "AssetKind": "All",
@@ -1955,10 +2074,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\921ccce6-aef1-4b64-8fbd-8c235f712a77genisleme ceni.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\a4388b9a-153e-4ca9-a423-ec15ef4605f2Screenshot 2023-12-05 222448.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\9f7736a5-1b95-4980-b8d6-5ddedcac6a8dNWATIX.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/9f7736a5-1b95-4980-b8d6-5ddedcac6a8dNWATIX.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\9f7736a5-1b95-4980-b8d6-5ddedcac6a8dNWATIX.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\a4388b9a-153e-4ca9-a423-ec15ef4605f2Screenshot 2023-12-05 222448.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/a4388b9a-153e-4ca9-a423-ec15ef4605f2Screenshot 2023-12-05 222448.png",
       "AssetKind": "All",
@@ -1972,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\a4388b9a-153e-4ca9-a423-ec15ef4605f2Screenshot 2023-12-05 222448.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\b146fcd7-d8f0-4f76-bce9-749177942b79Screenshot 2023-12-05 222041.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\b146fcd7-d8f0-4f76-bce9-749177942b79Screenshot 2023-12-05 222041.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/b146fcd7-d8f0-4f76-bce9-749177942b79Screenshot 2023-12-05 222041.png",
       "AssetKind": "All",
@@ -1989,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\b146fcd7-d8f0-4f76-bce9-749177942b79Screenshot 2023-12-05 222041.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\c8cac936-7db6-4f4d-ab82-6144155a8e58Screenshot 2023-12-05 222248.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\c8cac936-7db6-4f4d-ab82-6144155a8e58Screenshot 2023-12-05 222248.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/c8cac936-7db6-4f4d-ab82-6144155a8e58Screenshot 2023-12-05 222248.png",
       "AssetKind": "All",
@@ -2006,10 +2142,27 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\c8cac936-7db6-4f4d-ab82-6144155a8e58Screenshot 2023-12-05 222248.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\d37f91fc-e053-4150-b956-322b1dafb008genisleme ceni.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\d29a147b-c703-4258-a8c9-4eb5479c3f63por.jpg",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/products/d29a147b-c703-4258-a8c9-4eb5479c3f63por.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\products\\d29a147b-c703-4258-a8c9-4eb5479c3f63por.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\d37f91fc-e053-4150-b956-322b1dafb008genisleme ceni.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/d37f91fc-e053-4150-b956-322b1dafb008genisleme ceni.png",
       "AssetKind": "All",
@@ -2023,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\d37f91fc-e053-4150-b956-322b1dafb008genisleme ceni.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\e177c297-91b1-4130-ac21-c3396d2d98b2Screenshot 2023-12-05 222041.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\e177c297-91b1-4130-ac21-c3396d2d98b2Screenshot 2023-12-05 222041.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/e177c297-91b1-4130-ac21-c3396d2d98b2Screenshot 2023-12-05 222041.png",
       "AssetKind": "All",
@@ -2040,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\e177c297-91b1-4130-ac21-c3396d2d98b2Screenshot 2023-12-05 222041.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\e9e56e5c-c6c6-4690-8749-25406208efcfvintel.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\products\\e9e56e5c-c6c6-4690-8749-25406208efcfvintel.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/products/e9e56e5c-c6c6-4690-8749-25406208efcfvintel.png",
       "AssetKind": "All",
@@ -2057,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\e9e56e5c-c6c6-4690-8749-25406208efcfvintel.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\0b3ac0fa-3bdb-4540-a092-72dd4d790bf3Screenshot 2023-12-05 222448.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\0b3ac0fa-3bdb-4540-a092-72dd4d790bf3Screenshot 2023-12-05 222448.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/Slider-image/0b3ac0fa-3bdb-4540-a092-72dd4d790bf3Screenshot 2023-12-05 222448.png",
       "AssetKind": "All",
@@ -2074,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Slider-image\\0b3ac0fa-3bdb-4540-a092-72dd4d790bf3Screenshot 2023-12-05 222448.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\29c86878-8e77-4fb8-b684-633fbcebf00bScreenshot 2023-12-05 222448.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\29c86878-8e77-4fb8-b684-633fbcebf00bScreenshot 2023-12-05 222448.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/Slider-image/29c86878-8e77-4fb8-b684-633fbcebf00bScreenshot 2023-12-05 222448.png",
       "AssetKind": "All",
@@ -2091,10 +2244,27 @@
       "OriginalItemSpec": "wwwroot\\image\\Slider-image\\29c86878-8e77-4fb8-b684-633fbcebf00bScreenshot 2023-12-05 222448.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\3e4aa9ce-0ea4-452e-87d0-f173c4dc8e09Screenshot 2023-12-05 222448.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\2b74a753-c785-4ce3-9926-bed85a392212Screenshot 2023-12-05 222526.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/Slider-image/2b74a753-c785-4ce3-9926-bed85a392212Screenshot 2023-12-05 222526.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\Slider-image\\2b74a753-c785-4ce3-9926-bed85a392212Screenshot 2023-12-05 222526.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\3e4aa9ce-0ea4-452e-87d0-f173c4dc8e09Screenshot 2023-12-05 222448.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/Slider-image/3e4aa9ce-0ea4-452e-87d0-f173c4dc8e09Screenshot 2023-12-05 222448.png",
       "AssetKind": "All",
@@ -2108,10 +2278,44 @@
       "OriginalItemSpec": "wwwroot\\image\\Slider-image\\3e4aa9ce-0ea4-452e-87d0-f173c4dc8e09Screenshot 2023-12-05 222448.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\e96b210b-a220-4571-b460-771f117bba85Screenshot 2023-12-05 222448.png",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\53c08724-7f4e-4b58-9013-2c3361b1c514NWATIX.png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/Slider-image/53c08724-7f4e-4b58-9013-2c3361b1c514NWATIX.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\Slider-image\\53c08724-7f4e-4b58-9013-2c3361b1c514NWATIX.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\9845732f-44fb-4ea3-9275-16dbe9efa1a4por.jpg",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/Slider-image/9845732f-44fb-4ea3-9275-16dbe9efa1a4por.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\Slider-image\\9845732f-44fb-4ea3-9275-16dbe9efa1a4por.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\e96b210b-a220-4571-b460-771f117bba85Screenshot 2023-12-05 222448.png",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "image/Slider-image/e96b210b-a220-4571-b460-771f117bba85Screenshot 2023-12-05 222448.png",
       "AssetKind": "All",
@@ -2125,10 +2329,27 @@
       "OriginalItemSpec": "wwwroot\\image\\Slider-image\\e96b210b-a220-4571-b460-771f117bba85Screenshot 2023-12-05 222448.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\js\\animation.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\image\\Slider-image\\fae259bb-0bd2-434d-846a-2bae3eac6017+994 50 209 39 49 (18).png",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "BasePath": "_content/KoperingPizza",
+      "RelativePath": "image/Slider-image/fae259bb-0bd2-434d-846a-2bae3eac6017+994 50 209 39 49 (18).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\Slider-image\\fae259bb-0bd2-434d-846a-2bae3eac6017+994 50 209 39 49 (18).png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\js\\animation.js",
+      "SourceId": "KoperingPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "js/animation.js",
       "AssetKind": "All",
@@ -2142,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\js\\animation.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\js\\Category.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\js\\Category.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "js/Category.js",
       "AssetKind": "All",
@@ -2159,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Category.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\js\\script.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -2176,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2193,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2210,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2227,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2244,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2261,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2278,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2295,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2312,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2329,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2346,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2363,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2380,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2397,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2414,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2431,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2448,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2465,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2482,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2499,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2516,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2533,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2550,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2567,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2584,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2601,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2618,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2635,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2652,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2669,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2686,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2703,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2720,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2737,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2754,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2771,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2788,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2805,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2822,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2839,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2856,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2873,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2890,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2907,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2924,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2941,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2958,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2975,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2992,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3009,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3026,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3043,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3060,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3077,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3094,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3111,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3128,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "KoperingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\wwwroot\\",
       "BasePath": "_content/KoperingPizza",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

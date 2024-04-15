@@ -1568,6 +1568,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\072b7d70-c9db-4e4a-8265-6dabd82a87b0Screenshot 2023-12-23 211957.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\0ea3662f-ff4f-4a19-a0f2-e0a2c4e8dfacpor.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/0ea3662f-ff4f-4a19-a0f2-e0a2c4e8dfacpor.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\0ea3662f-ff4f-4a19-a0f2-e0a2c4e8dfacpor.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\22736d5f-3073-4505-bdfe-d348c0272ee7Screenshot 2023-12-05 222107.png))">
       <SourceType>Package</SourceType>
       <SourceId>KoperingPizza</SourceId>
@@ -1584,6 +1600,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\22736d5f-3073-4505-bdfe-d348c0272ee7Screenshot 2023-12-05 222107.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\24b0bacb-54d7-43c0-b910-a7a559e9f920por.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/24b0bacb-54d7-43c0-b910-a7a559e9f920por.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\24b0bacb-54d7-43c0-b910-a7a559e9f920por.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\31ac336b-5b6d-4b1e-970c-6bb921c810c8genisleme ceni.png))">
       <SourceType>Package</SourceType>
       <SourceId>KoperingPizza</SourceId>
@@ -1599,6 +1631,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\31ac336b-5b6d-4b1e-970c-6bb921c810c8genisleme ceni.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\34b8ce72-dc6e-4706-a842-7353c5ec6e2epor.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/34b8ce72-dc6e-4706-a842-7353c5ec6e2epor.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\34b8ce72-dc6e-4706-a842-7353c5ec6e2epor.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\43af12b1-2730-4539-8366-aabce3b6d04aScreenshot 2023-12-05 222526.png))">
       <SourceType>Package</SourceType>
@@ -1728,6 +1776,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\5ea67015-116e-4cca-9b94-69833e237dd1Screenshot 2023-12-05 222248.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\7709656b-8309-4b78-913c-f12700f22357Red and black rocket illustration, Rocket Spacecraft, rocket, image File Formats, cartoon png.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/7709656b-8309-4b78-913c-f12700f22357Red and black rocket illustration, Rocket Spacecraft, rocket, image File Formats, cartoon png.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\7709656b-8309-4b78-913c-f12700f22357Red and black rocket illustration, Rocket Spacecraft, rocket, image File Formats, cartoon png.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\787da96d-a485-41e5-a3b9-f416b0640698Screenshot 2023-12-05 222041.png))">
       <SourceType>Package</SourceType>
       <SourceId>KoperingPizza</SourceId>
@@ -1743,6 +1807,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\787da96d-a485-41e5-a3b9-f416b0640698Screenshot 2023-12-05 222041.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\78aa540b-e9a4-4738-b0d1-c53d08a2bad4+994 50 209 39 49 (19).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/78aa540b-e9a4-4738-b0d1-c53d08a2bad4+994 50 209 39 49 (19).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\78aa540b-e9a4-4738-b0d1-c53d08a2bad4+994 50 209 39 49 (19).png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\7c78b884-4dc7-4253-8485-90e5fd3b1f8dScreenshot 2023-12-05 222041.png))">
       <SourceType>Package</SourceType>
@@ -1760,6 +1840,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\7c78b884-4dc7-4253-8485-90e5fd3b1f8dScreenshot 2023-12-05 222041.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\7f59e0f7-bee5-4f5a-8bad-37468e810ed5+994 50 209 39 49 (18).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/7f59e0f7-bee5-4f5a-8bad-37468e810ed5+994 50 209 39 49 (18).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\7f59e0f7-bee5-4f5a-8bad-37468e810ed5+994 50 209 39 49 (18).png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\7fac03eb-4b07-49ef-8ddf-b140dc30ce40Screenshot 2023-12-05 222248.png))">
       <SourceType>Package</SourceType>
       <SourceId>KoperingPizza</SourceId>
@@ -1776,6 +1872,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\7fac03eb-4b07-49ef-8ddf-b140dc30ce40Screenshot 2023-12-05 222248.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\8a410b35-0d52-475f-9f2e-e08a46e01627+994 50 209 39 49 (19).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/8a410b35-0d52-475f-9f2e-e08a46e01627+994 50 209 39 49 (19).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\8a410b35-0d52-475f-9f2e-e08a46e01627+994 50 209 39 49 (19).png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\921ccce6-aef1-4b64-8fbd-8c235f712a77genisleme ceni.png))">
       <SourceType>Package</SourceType>
       <SourceId>KoperingPizza</SourceId>
@@ -1791,6 +1903,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\921ccce6-aef1-4b64-8fbd-8c235f712a77genisleme ceni.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\9f7736a5-1b95-4980-b8d6-5ddedcac6a8dNWATIX.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/9f7736a5-1b95-4980-b8d6-5ddedcac6a8dNWATIX.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\9f7736a5-1b95-4980-b8d6-5ddedcac6a8dNWATIX.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\a4388b9a-153e-4ca9-a423-ec15ef4605f2Screenshot 2023-12-05 222448.png))">
       <SourceType>Package</SourceType>
@@ -1839,6 +1967,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\c8cac936-7db6-4f4d-ab82-6144155a8e58Screenshot 2023-12-05 222248.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\d29a147b-c703-4258-a8c9-4eb5479c3f63por.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/products/d29a147b-c703-4258-a8c9-4eb5479c3f63por.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\d29a147b-c703-4258-a8c9-4eb5479c3f63por.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\products\d37f91fc-e053-4150-b956-322b1dafb008genisleme ceni.png))">
       <SourceType>Package</SourceType>
@@ -1920,6 +2064,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\29c86878-8e77-4fb8-b684-633fbcebf00bScreenshot 2023-12-05 222448.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\2b74a753-c785-4ce3-9926-bed85a392212Screenshot 2023-12-05 222526.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/Slider-image/2b74a753-c785-4ce3-9926-bed85a392212Screenshot 2023-12-05 222526.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\2b74a753-c785-4ce3-9926-bed85a392212Screenshot 2023-12-05 222526.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\3e4aa9ce-0ea4-452e-87d0-f173c4dc8e09Screenshot 2023-12-05 222448.png))">
       <SourceType>Package</SourceType>
       <SourceId>KoperingPizza</SourceId>
@@ -1936,6 +2096,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\3e4aa9ce-0ea4-452e-87d0-f173c4dc8e09Screenshot 2023-12-05 222448.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\53c08724-7f4e-4b58-9013-2c3361b1c514NWATIX.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/Slider-image/53c08724-7f4e-4b58-9013-2c3361b1c514NWATIX.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\53c08724-7f4e-4b58-9013-2c3361b1c514NWATIX.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\9845732f-44fb-4ea3-9275-16dbe9efa1a4por.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/Slider-image/9845732f-44fb-4ea3-9275-16dbe9efa1a4por.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\9845732f-44fb-4ea3-9275-16dbe9efa1a4por.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\e96b210b-a220-4571-b460-771f117bba85Screenshot 2023-12-05 222448.png))">
       <SourceType>Package</SourceType>
       <SourceId>KoperingPizza</SourceId>
@@ -1951,6 +2143,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\e96b210b-a220-4571-b460-771f117bba85Screenshot 2023-12-05 222448.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\fae259bb-0bd2-434d-846a-2bae3eac6017+994 50 209 39 49 (18).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>KoperingPizza</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/KoperingPizza</BasePath>
+      <RelativePath>image/Slider-image/fae259bb-0bd2-434d-846a-2bae3eac6017+994 50 209 39 49 (18).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\image\Slider-image\fae259bb-0bd2-434d-846a-2bae3eac6017+994 50 209 39 49 (18).png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\js\animation.js))">
       <SourceType>Package</SourceType>

@@ -30,13 +30,7 @@
                         </li>
                         <li class="nav-link" style="--i: .85s">
                             <a href="#">Menu<i class="fas fa-caret-down"></i></a>
-                            <div class="dropdown">
-                                <ul>
-                                    <li class="dropdown-link">
-                                        <a href="#"> SOUS</a>
-                                    </li>
-                                </ul>
-                            </div>
+                            @await Component.InvokeAsync("Category")
                         </li>
                         <li class="nav-link" style="--i: 1.35s">
                             <a href="#">About</a>

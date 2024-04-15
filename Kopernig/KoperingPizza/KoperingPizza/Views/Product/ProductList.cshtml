@@ -1,0 +1,71 @@
+﻿@model List<Product>
+<section class="menu">
+    @foreach(var item in Model)
+    {
+    <div class="food-card">
+			<div class="food">
+				<img src="~/image/products/@item.Image" />
+            <div class="food about">
+                <h2>@item.Price</h2>
+                <h3>@item.Name</h3>
+                <button>Səbətə əlavə et</button>
+            </div>
+        </div>
+    </div>
+        
+    }
+       
+    @*
+    <div class="food-card">
+        <div class="food">
+            <img src="~/assets/image/hamburger.png" />
+            <div class="food about">
+                <h3>Hamburger</h3>
+                <button>Səbətə əlavə et</button>
+            </div>
+        </div>
+    </div>
+    <div class="food-card">
+        <div class="food">
+            <img src="~/assets/image/hamburger.png" alt="">
+            <div class="food about">
+                <h3>Hamburger</h3>
+                <button>Səbətə əlavə et</button>
+            </div>
+        </div>
+    </div>
+    <div class="food-card">
+        <div class="food">
+            <img src="~/assets/image/hamburger.png" alt="">
+            <div class="food about">
+                <h3>Hamburger</h3>
+                <button>Səbətə əlavə et</button>
+            </div>
+        </div>
+    </div>
+    <div class="food-card">
+        <div class="food">
+            <img src="~/assets/image/hamburger.png" alt="">
+            <div class="food about">
+                <h3>Hamburger</h3>
+                <button>Səbətə əlavə et</button>
+            </div>
+        </div>
+    </div>
+    <div class="food-card">
+        <div class="food">
+            <img src="~/assets/image/hamburger.png" alt="">
+            <div class="food about">
+                <h3>Hamburger</h3>
+                <button>Səbətə əlavə et</button>
+            </div>
+        </div>
+    </div>
+    <div class="food-card">
+        <div class="food">
+            <img src="~/assets/image/hamburger.png" alt="">
+            <h3>Hamburger</h3>
+            <button>Səbətə əlavə et</button>
+        </div>
+    </div>*@
+</section>

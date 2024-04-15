@@ -10,12 +10,13 @@ namespace KoperingPizza.Models
         public string Image { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
-
         [ForeignKey("Category")]
         public int CatgeoryId { get; set; }
         public virtual Category Category { get; set; }
         [NotMapped]
         public IFormFile ImgFile { get; set; }
-    }
+
+		public ICollection<SizeToProducts> SizeToProducts { get; set; }
+	}
 }
 

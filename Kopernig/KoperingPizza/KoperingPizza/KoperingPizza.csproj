@@ -31,6 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Admin\Views\Users\" />
     <Folder Include="wwwroot\image\products\" />
     <Folder Include="wwwroot\image\Slider-image\" />
   </ItemGroup>

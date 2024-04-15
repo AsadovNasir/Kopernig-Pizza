@@ -51,9 +51,10 @@ namespace KoperingPizza.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public IActionResult Edit()
+        public IActionResult Edit(int id)
         {
-            return View();
+            ViewBag.Slider = _context.Sliders.ToList();
+            return View(_context.Sliders.Find(id));
         }
         [HttpPost]
         public async Task<IActionResult> Edit(Slider newSlider)

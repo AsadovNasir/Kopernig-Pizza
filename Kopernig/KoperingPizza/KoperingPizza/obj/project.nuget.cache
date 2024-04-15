@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Jq4rq83lT6Q05n13H3HxNlmPQ6d/DI3FaLfV/ZxZTb/YXdkSnG/8sOCzqbGgzKAWIU2PRX7nMuk3OyfRtOVYg==",
+  "dgSpecHash": "m89xzzCHutrfa7njYclZPJEiIu1MzFxEYGyeCJJ2ZcWwt90QrIKZ18OlEG5hADh7xxvpxO6K6UzrSlVRDf9yxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\KoperingPizza\\KoperingPizza\\KoperingPizza.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Kopernig-Pizza\\Kopernig-Pizza\\Kopernig\\KoperingPizza\\KoperingPizza\\KoperingPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
